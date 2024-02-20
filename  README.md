@@ -1,20 +1,20 @@
 # Runes
 
-![Runes Banner](https://example.com/path/to/banner.jpg)
+![Runes Banner](rune.png)
 
 Runes is a Python package that enables developers and designers to generate and map user-defined pseudo-code to various coding systems. This includes integration with LangChain for natural language processing, facilitating the creation of pseudo-code through conversational AI.
 
 ## Installation
 
 ```bash
-pip install runes
+pip install rune
 ```
 
 ## Features
 
 - **User-Defined Syntax**: Define your own pseudo-code syntax using emojis, ASCII art, or any textual representation.
 - **LangChain Integration**: Utilize natural language processing to generate pseudo-code and map it directly other languages eg: Unreal Engine blueprints.
-- **Extensible Architecture**: Easily extend `Runes` to support new coding systems beyond Unreal Engine blueprints.
+- **Extensible Architecture**: Easily extend `Runes` to support new coding systems 
 
 ## Getting Started
 
@@ -67,6 +67,7 @@ Contributions are welcome! Whether you're adding new features, improving documen
 ## TODO
 - [ ] Implement dynamic LSP for auto-complete functionality.
 - [ ] Integrate alternative syntax extensions
+- [ ] AI system prompts for pesudo code 
 
 [Project Board](https://github.com/users/ZackBradshaw/projects/3/views/1)
 

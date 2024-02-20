@@ -1,0 +1,3 @@
+[console_scripts]
+runes = runes.example_usage:main
+

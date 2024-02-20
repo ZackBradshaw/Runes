@@ -1,0 +1,6 @@
+{
+    "🚀": "Event {0}",
+    "➡️": "ExecuteNext {0}",
+    "✨": "FunctionCall {0}",
+    "🔢": "IntegerParameter {0}"
+}
